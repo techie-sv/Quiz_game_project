@@ -21,6 +21,6 @@ To run this project, you need a C compiler installed on your system. For example
 1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/techie-sv/quiz-game.git
-cd quiz-game
-gcc quiz_game.c -o quiz_game
-./quiz_game
+   cd quiz-game
+   gcc quiz_game.c -o quiz_game
+   ./quiz_game
